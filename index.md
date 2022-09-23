@@ -5,6 +5,8 @@
 ##### Now I am just doing this on purpose!
 ###### A "little" imagination and humor never hurts, no pun intended... :p
 
+![A picture of me]("C:\Users\alexa\OneDrive\Pictures\Saved Pictures\me.jpg")
+
 ## About Me as A Person:
 
 I am a 27-year-old hispanic white male who comes from a poor family. Growing up poor was kind of difficult. However, I never allowed my
