@@ -1,2 +1,1 @@
-# Alexander-s-GitHub-Pages-Project
-GitHub Pages project for CSE 110
+Alexander G. Arias's User Page
