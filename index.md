@@ -26,6 +26,9 @@ This is one of the most prominant quotes from my favorite videogame series:
 
 I decided to take the winter quarter off this year, but decided to reattend during the spring semester. I hit remission in winter 2022. I hope that my experiences can show you a thing or two about my character and personality.
 
+
+![Picture of a Random Program](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.law-right.com%2Fis-copyright-an-appropriate-protection-for-computer-programs%2F&psig=AOvVaw3zRnbqrAdrpIjLSnTWMae0&ust=1664061956622000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCCtY6IrPoCFQAAAAAdAAAAABAD)
+
 ## About Me as a Programmer:
 
 I consider myself a very good programmer. I somewhat believe that I am up in the top undergraduate programmers here at UCSD, but this is extremely biased. Since arriving at UCSD, I have always aced my programming assignments. I mostly attribute my success to my discipline and dedication. Unfortunatley, being a good programmer tends to attract those other programmers that can be a bit lazy. I tend to be very empathetic when dealing with computer science, but this has caused me to deal with academic integrity in the past. As a a result, I refuse to help people by any means. My favorite data structure that allowed me to be very successul was `Vector`, or `Array` in other words. While taking c++ last quarter in my advanced data structures class, I managed to program some really cool things I would've never thought about programming on my own while abusing the heck out of `vectors`.
