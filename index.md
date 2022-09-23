@@ -1,3 +1,4 @@
+`rgb(162, 227, 232)`
 # Alexander G. Arias's GitHub User Page
 ## The coolest page in the world!
 ### NAY! THE GALAXY!
