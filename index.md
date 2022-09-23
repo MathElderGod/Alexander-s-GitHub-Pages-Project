@@ -5,7 +5,7 @@
 ##### Now I am just doing this on purpose!
 ###### A "little" imagination and humor never hurts, no pun intended... :p
 
-![A picture of me](images/me.jpg)
+![A picture of me](images/me.jpg = 200x200)
 
 ## About Me as A Person:
 
