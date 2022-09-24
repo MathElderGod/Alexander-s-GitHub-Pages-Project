@@ -5,7 +5,11 @@
 ##### Now I am just doing this on purpose! :100:
 ###### A "little" imagination and humor never hurts, no pun intended... :rofl:
 
-![A picture of me](images/me.jpg)
+<!-->![A picture of me](images/me.jpg)<-->
+
+<picture>
+    <img alt = "A picture of me" src = "images/me.jpg" height = 200 width = 200>
+</picture>
 
 ## About Me as A Person:
 
@@ -56,7 +60,7 @@ My favorite data structure that has allowed me to be very successul to this day 
 
 Overall, this list is only bound to get bigger. I have recieved an A in all of these classes, but this does not mean they were easy nor fun. I am currently taking CSE 101, 110, and 167. I hope that these courses can continue to teach me more about what it truly means to be a programmer as I am still learning about what being a programmer truly means. As a first generation programmer, It is difficult to compare my experience or even share a passion I have for computer science since I do not know much beyond what I have learned here at UCSD. 
 
-Anyways, while taking this LAB week 0-1, I realised that the instructions state to use `git branch name_of_new_branch`. After creating this branch, it asks the user to `git checkout name_of_new_branch`. While looking at an online reference, it mentions that we need to type `git branch` after that so that we may make new changes in the new branch. I did not do this, and somehow all my work still worked. So I am a bit confused by this, but I hope to keep learning about git and other cool things throughout the quarter!
+Anyways, while taking this LAB week 0-1, I realized that the instructions state to use `git branch name_of_new_branch`. After creating this branch, it asks the user to `git checkout name_of_new_branch`. While looking at an online reference, it mentions that we need to type `git branch` after that so that we may make new changes in the new branch. I did not do this, and somehow all my work still worked. So I am a bit confused by this, but I hope to keep learning about git and other cool things throughout the quarter!
 
 ## My Goals for CSE 110
 
