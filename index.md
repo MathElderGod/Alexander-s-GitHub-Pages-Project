@@ -6,7 +6,7 @@
 ###### A "little" imagination and humor never hurts, no pun intended... :rofl:
 
 <picture>
-    <img alt = "A picture of me" src = "images/me.jpg" height = 200 width = 200>
+    <img alt = "A picture of me" src = "[images/me.jpg](https://github.com/MathElderGod/Alexander-s-GitHub-Pages-Project/blob/Creating-My-User-Page/images/me.jpg?raw=true)" height = 200 width = 200>
 </picture>
 
 ## About Me as A Person:
@@ -15,7 +15,7 @@ I am a 27-year-old hispanic white male who comes from a poor family. Growing up 
 circumstances to prevent me from becoming someone of value or inpirational. **I am married**, and __I have two children__. My first born is a boy, and he turns 3 on october first. My second born is a girl, and she turns 1 on november the third. 
 
 <picture>
-    <img alt = "My family" src = "images/my_family.jpg" height = 200 width = 200>
+    <img alt = "My family" src = "[images/my_family.jpg](https://github.com/MathElderGod/Alexander-s-GitHub-Pages-Project/blob/Creating-My-User-Page/images/my_family.jpg?raw=true)" height = 200 width = 200>
 </picture>
 
 My wife, son, and daughter's name are as follows in the bellow unordered list: 
@@ -39,7 +39,7 @@ This is one of the most prominant quotes from my favorite videogame series:
 I decided to take the winter quarter off this year, but decided to reattend during the spring semester. I hit remission in winter 2022. I hope that my experiences can show you a thing or two about my character and personality.
 
 <picture>
-    <img alt = "Picture of a Random Program" src = "images/java-adv.jpg" height = 200 width = 200>
+    <img alt = "Picture of a Random Program" src = "[images/java-adv.jpg](https://github.com/MathElderGod/Alexander-s-GitHub-Pages-Project/blob/Creating-My-User-Page/images/java-adv.jpg?raw=true)" height = 200 width = 200>
 </picture>
 
 ## About Me as a Programmer:
