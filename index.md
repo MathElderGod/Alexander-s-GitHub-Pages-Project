@@ -38,8 +38,9 @@ This is one of the most prominant quotes from my favorite videogame series:
 
 I decided to take the winter quarter off this year, but decided to reattend during the spring semester. I hit remission in winter 2022. I hope that my experiences can show you a thing or two about my character and personality.
 
-
-![Picture of a Random Program](images/java-adv.jpg)
+<picture>
+    <img alt = "Picture of a Random Program" src = "images/java-adv.jpg" height = 200 width = 200>
+</picture>
 
 ## About Me as a Programmer:
 
