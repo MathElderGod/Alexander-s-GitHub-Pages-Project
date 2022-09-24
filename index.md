@@ -33,7 +33,7 @@ This is one of the most prominant quotes from my favorite videogame series:
 I decided to take the winter quarter off this year, but decided to reattend during the spring semester. I hit remission in winter 2022. I hope that my experiences can show you a thing or two about my character and personality.
 
 
-![Picture of a Random Program](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.law-right.com%2Fis-copyright-an-appropriate-protection-for-computer-programs%2F&psig=AOvVaw3zRnbqrAdrpIjLSnTWMae0&ust=1664061956622000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPCCtY6IrPoCFQAAAAAdAAAAABAD)
+![Picture of a Random Program](images/java-adv.jpg)
 
 ## About Me as a Programmer:
 
