@@ -3,7 +3,7 @@
 ### NAY! THE GALAXY! :space_invader:
 #### DOUBLE NAY! THE UNIVERSE! :alien:
 ##### Now I am just doing this on purpose! :100:
-###### A "little" imagination and humor never hurts, no pun intended... :p
+###### A "little" imagination and humor never hurts, no pun intended... :rofl:
 
 ![A picture of me](images/me.jpg)
 
