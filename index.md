@@ -12,6 +12,8 @@
 I am a 27-year-old hispanic white male who comes from a poor family. Growing up poor was kind of difficult. However, I never allowed my
 circumstances to prevent me from becoming someone of value or inpirational. **I am married**, and __I have two children__. My first born is a boy, and he turns 3 on october first. My second born is a girl, and she turns 1 on november the third. 
 
+![My family](images/my_family.jpg)
+
 My wife, son, and daughter's name are as follows in the bellow unordered list: 
 
 - Hillary Arias
