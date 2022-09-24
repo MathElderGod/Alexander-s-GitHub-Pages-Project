@@ -72,3 +72,4 @@ Anyways, while taking this LAB week 0-1, I realized that the instructions state 
   
 I hope to update this tasks list in greater detail throught the quarter and hopefully be able to check everymark at the end of the quarter. :smile:
 
+<!-- This content will not appear in the rendered Markdown -->
